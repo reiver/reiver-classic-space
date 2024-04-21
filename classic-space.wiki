@@ -1,0 +1,23 @@
+wiki/1
+
+§ Classic Space
+
+**Classic Space** is a specific style of toy that focuses on **astronauts**, **space-exploration**. **space-ships** with a specific [[color-palette]].
+
+**Classic Space** was initially created by **lego**, but others have also created toys in the **classic space** theme.
+
+§§ Color Palette
+
+The **classic space** [[color-palette]] is near this:
+
+• ``#1B2A34`` (black)
+• ``#1E5AA8`` (blue)
+• ``#FD0304`` (encarnado)
+• ``#00852B`` (green)
+• ``#B19448`` (husk)
+• ``#8A928D`` (light-gray)
+• ``#EADB40`` (meadowlark)
+• ``#D67923`` (orange)
+• ``#B40000`` (red)
+• ``#FAC80A`` (yellow)
+• ``#F4F4F4`` (white)
