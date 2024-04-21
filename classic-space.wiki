@@ -2,6 +2,8 @@ wiki/1
 
 § Classic Space
 
+⸺ by Charles Iliya Krempeaux
+
 **Classic Space** is a specific style of toy that focuses on **astronauts**, **space-exploration**. **space-ships** with a specific [[color-palette]].
 
 **Classic Space** was initially created by **lego**, but others have also created toys in the **classic space** theme.
@@ -21,3 +23,57 @@ The **classic space** [[color-palette]] is near this:
 • ``#B40000`` (red)
 • ``#FAC80A`` (yellow)
 • ``#F4F4F4`` (white)
+
+§§ Topics
+
+§§§ A
+
+§§§ B
+
+§§§ C
+
+§§§ D
+
+§§§ E
+
+§§§ F
+
+§§§ G
+
+§§§ H
+
+§§§ I
+
+§§§ J
+
+§§§ K
+
+§§§ L
+
+§§§ M
+
+§§§ N
+
+§§§ O
+
+§§§ P
+
+§§§ Q
+
+§§§ R
+
+§§§ S
+
+§§§ T
+
+§§§ U
+
+§§§ V
+
+§§§ W
+
+§§§ X
+
+§§§ Y
+
+§§§ Z
