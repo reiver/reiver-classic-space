@@ -24,56 +24,101 @@ The **classic space** [[color-palette]] is near this:
 • ``#FAC80A`` (yellow)
 • ``#F4F4F4`` (white)
 
-§§ Topics
+§§ Lego Sets
 
-§§§ A
+Here are **classic space** lego sets:
 
-§§§ B
-
-§§§ C
-
-§§§ D
-
-§§§ E
-
-§§§ F
-
-§§§ G
-
-§§§ H
-
-§§§ I
-
-§§§ J
-
-§§§ K
-
-§§§ L
-
-§§§ M
-
-§§§ N
-
-§§§ O
-
-§§§ P
-
-§§§ Q
-
-§§§ R
-
-§§§ S
-
-§§§ T
-
-§§§ U
-
-§§§ V
-
-§§§ W
-
-§§§ X
-
-§§§ Y
-
-§§§ Z
+• [[classic-space-14]]
+• [[classic-space-305]]
+• [[classic-space-306]]
+• [[classic-space-442]]
+• [[classic-space-452]]
+• [[classic-space-453]]
+• [[classic-space-454]]
+• [[classic-space-462]]
+• [[classic-space-483]]
+• [[classic-space-487]]
+• [[classic-space-493]]
+• [[classic-space-497]]
+• [[classic-space-885]]
+• [[classic-space-886]]
+• [[classic-space-889]]
+• [[classic-space-891]]
+• [[classic-space-894]]
+• [[classic-space-897]]
+• [[classic-space-918]]
+• [[classic-space-920]]
+• [[classic-space-924]]
+• [[classic-space-926]]
+• [[classic-space-928]]
+• [[classic-space-1498]]
+• [[classic-space-1499]]
+• [[classic-space-1526]]
+• [[classic-space-1557]]
+• [[classic-space-1558]]
+• [[classic-space-1580]]
+• [[classic-space-1593]]
+• [[classic-space-1968]]
+• [[classic-space-6701]]
+• [[classic-space-6702]]
+• [[classic-space-6711]]
+• [[classic-space-6750]]
+• [[classic-space-6780]]
+• [[classic-space-6783]]
+• [[classic-space-6801]]
+• [[classic-space-6802]]
+• [[classic-space-6803]]
+• [[classic-space-6804]]
+• [[classic-space-6805]]
+• [[classic-space-6806]]
+• [[classic-space-6807]]
+• [[classic-space-6808]]
+• [[classic-space-6809]]
+• [[classic-space-6820]]
+• [[classic-space-6821]]
+• [[classic-space-6822]]
+• [[classic-space-6823]]
+• [[classic-space-6824]]
+• [[classic-space-6825]]
+• [[classic-space-6826]]
+• [[classic-space-6827]]
+• [[classic-space-6841]]
+• [[classic-space-6842]]
+• [[classic-space-6844]]
+• [[classic-space-6845]]
+• [[classic-space-6846]]
+• [[classic-space-6847]]
+• [[classic-space-6848]]
+• [[classic-space-6849]]
+• [[classic-space-6861]]
+• [[classic-space-6870]]
+• [[classic-space-6871]]
+• [[classic-space-6872]]
+• [[classic-space-6874]]
+• [[classic-space-6880]]
+• [[classic-space-6881]]
+• [[classic-space-6882]]
+• [[classic-space-6883]]
+• [[classic-space-6890]]
+• [[classic-space-6891]]
+• [[classic-space-6892]]
+• [[classic-space-6901]]
+• [[classic-space-6926]]
+• [[classic-space-6927]]
+• [[classic-space-6928]]
+• [[classic-space-6929]]
+• [[classic-space-6930]]
+• [[classic-space-6931]]
+• [[classic-space-6940]]
+• [[classic-space-6950]]
+• [[classic-space-6951]]
+• [[classic-space-6952]]
+• [[classic-space-6970]]
+• [[classic-space-6971]]
+• [[classic-space-6972]]
+• [[classic-space-6980]]
+• [[classic-space-6985]]
+• [[classic-space-10497]]
+• [[classic-space-11910]]
+• [[classic-space-21109]]
+• [[classic-space-5002812]]
